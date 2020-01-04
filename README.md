@@ -1,3 +1,6 @@
+**DEPRECATED: this functionality moved into the core.  Use `:wrepl/deps`
+instead**
+
 # clj-wrepl-pomegranate
 
 `init` option for [clj-wrepl](https://github.com/christoph-frick/clj-wrepl) to load dependencies using [Pomegranate](https://github.com/cemerick/pomegranate)
